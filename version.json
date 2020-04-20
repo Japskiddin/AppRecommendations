@@ -1,9 +1,1 @@
-{
-    "items": [
-        {
-            "lang": "ru",
-            "version": 13,
-            "url": "https://raw.githubusercontent.com/Japskiddin/AppRecommendations/master/banners-ru.json"
-        }
-    ]
-}
+{"items":[{"lang":"ru","version":13,"url":"https://raw.githubusercontent.com/Japskiddin/AppRecommendations/master/banners-ru.json"}]}
